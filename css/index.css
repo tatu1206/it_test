@@ -1,0 +1,32 @@
+/*--------------------------------------------
+
+目次
+    
+    main-img
+    About
+    Works
+    News
+    Contact
+
+-------------------------------------*/
+/*--------------------------------------------
+
+main
+
+-------------------------------------*/
+#top-right{
+    width: 50%;
+    position: relative;
+    display: block;
+}
+main img{
+    margin-top: 40px;
+    max-width: 95%;
+    position: absolute;
+}
+@media screen and (max-width: 1024px) {}
+
+@media screen and (max-width: 768px) {}
+
+@media screen and (max-width: 480px) {}
+
